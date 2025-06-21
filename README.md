@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Laxmikanth 
 
 ### Data & Business Analyst | Turning Data into Actionable Insights
+![Laxmikanth - Data & Business Analyst](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/BANNER_FILENAME.png)
 
 I’m a passionate and results-driven **Data & Business Analyst** skilled in **Power BI, SQL, Excel, and Data Visualization**. I specialize in transforming complex datasets into meaningful dashboards and reports that empower businesses to make smarter, data-driven decisions.
 
