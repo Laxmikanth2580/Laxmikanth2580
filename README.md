@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Laxmikanth 
 
 ### Data & Business Analyst | Turning Data into Actionable Insights
-![Laxmikanth - Data & Business Analyst]([ChatGPT Image Jun 21, 2025, 04_17_09 PM.png](https://github.com/Laxmikanth2580/Laxmikanth2580/blob/main/ChatGPT%20Image%20Jun%2021%2C%202025%2C%2004_17_09%20PM.png))
+<p align="center">
+  <img src="https://github.com/Laxmikanth2580/Laxmikanth2580/raw/main/ChatGPT%20Image%20Jun%2021%2C%202025%2C%2004_17_09%20PM.png" alt="Laxmikanth | Data & Business Analyst" width="100%">
+</p>
 
 I’m a passionate and results-driven **Data & Business Analyst** skilled in **Power BI, SQL, Excel, and Data Visualization**. I specialize in transforming complex datasets into meaningful dashboards and reports that empower businesses to make smarter, data-driven decisions.
 
