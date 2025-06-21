@@ -50,8 +50,10 @@ I’m a passionate Data & Business Analyst skilled in Excel, SQL, and Power BI. 
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](linkedin.com/in/laxmikanth-k-559b74328)
-- 📧 Email:klaxmikanth95@gmail.com
+**Laxmikanth**  
+📧 klaxmikanth95@gmail.com  
+🔗 [linkedin.com/in/laxmikanth-k-559b74328](https://www.linkedin.com/in/laxmikanth-k-559b74328/)  
+🌐 [Portfolio](https://laxmikanth2580.github.io/)
 
 ---
 
